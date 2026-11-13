@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for rvg-plqmta on 2026-11-13T17:34:39Z
+# fly.toml app configuration file generated for rvg-rkrara on 2026-11-13T18:17:11Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'rvg-plqmta'
+app = 'rvg-rkrara'
 primary_region = 'ams'
 
 [build]
